@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\controllers\\entitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\controllers\\entitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\models\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\models\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\models\\entitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\models\\entitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\idbcontextimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\idbcontextimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\migrations\\20240814053112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\migrations\\20240814053112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|d:\\idbcontextfactory\\idbcontextimplementationandunderstanding\\idbcontextimplementation\\migrations\\20240814054749_primarykeyaddedtoentitiestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F1E17-3006-4506-A1B0-FE1CDB39CE2B}|IDbContextImplementation\\IDbContextImplementation.csproj|solutionrelative:idbcontextimplementation\\migrations\\20240814054749_primarykeyaddedtoentitiestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntitiesController.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Controllers\\EntitiesController.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Controllers\\EntitiesController.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Controllers\\EntitiesController.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Controllers\\EntitiesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:35:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240814053112_InitialCreate.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Migrations\\20240814053112_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Migrations\\20240814053112_InitialCreate.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Migrations\\20240814053112_InitialCreate.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Migrations\\20240814053112_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:31:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Models\\Entity.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\Entity.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:15:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityDbContext.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\EntityDbContext.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Models\\EntityDbContext.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\EntityDbContext.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Models\\EntityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:15:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Program.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Program.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:24:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240814054749_PrimaryKeyAddedToEntitiesTable.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Migrations\\20240814054749_PrimaryKeyAddedToEntitiesTable.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Migrations\\20240814054749_PrimaryKeyAddedToEntitiesTable.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Migrations\\20240814054749_PrimaryKeyAddedToEntitiesTable.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Migrations\\20240814054749_PrimaryKeyAddedToEntitiesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:47:49.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityDTO.cs",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\EntityDTO.cs",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\Models\\EntityDTO.cs",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\Models\\EntityDTO.cs",
+              "RelativeToolTip": "IDbContextImplementation\\Models\\EntityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:49:34.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\appsettings.json",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\appsettings.json",
+              "RelativeToolTip": "IDbContextImplementation\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T05:20:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDbContextImplementation.csproj",
+              "DocumentMoniker": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\IDbContextImplementation.csproj",
+              "RelativeDocumentMoniker": "IDbContextImplementation\\IDbContextImplementation.csproj",
+              "ToolTip": "D:\\IDbContextFactory\\IDbContextImplementationAndUnderstanding\\IDbContextImplementation\\IDbContextImplementation.csproj",
+              "RelativeToolTip": "IDbContextImplementation\\IDbContextImplementation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T05:14:55.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
